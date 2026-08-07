@@ -41,3 +41,11 @@ O sistema deverá calcular a média e mostrar:
 - [ ] Criar o botão limpar
 - [ ] Validar nota entre 0 e 10
 - [ ] Testar o aplicativo
+
+### Desafio
+- [ ] Adicionar uma quarta nota
+- [ ] Mostrar a maior nota
+- [ ] Mostrar a menor nota
+- [ ] Informar quantos pontos faltaram para a aprovação
+- [ ] Adicionar um campo para frequência
+- [ ] Reprovar o aluno que tiver frequência menor que 75%
