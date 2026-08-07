@@ -1,21 +1,19 @@
 ## Atividade - Calculadora de Média Escolar
 
-### Objetivo
-
-
-
-
-
-
-
-
-
-- Variáveis
-- Conversão de texto para número
-- Condicionais
-- Funções
-- Validação de campos
-- SnackBar
+### Objetivos
+ - MaterialAlpp
+ - Scallfold
+ - TextField
+ - TextEditingController
+ - ElevatedButton
+ - OutlineButton
+ - setState
+ - variáveis
+ - Conversão de texto para número
+ - Condicionais
+ - Funções
+ - Validação de campos
+ - SnackBar
 
 ### Funcionamento
 
@@ -34,8 +32,8 @@ O sistema deverá calcular a média e mostrar:
 - [X] Criar projeto Flutter
 - [X] Criar campo de nome
 - [X] Criar os três campos de nota
-- [ ] Criar o botão de calcular
-- [ ] Calcular a média
+- [X] Criar o botão de calcular
+- [X] Calcular a média
 - [ ] Verificar a situação do aluno
 - [ ] Mostrar o resultado
 - [ ] Criar o botão limpar
